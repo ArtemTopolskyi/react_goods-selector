@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAEA,QACE,oBAAqB,CACtB,UAGC,qBAAsB,CACvB,QAGC,YAAa,CACd,QAGC,gBAAiB","file":"main.091da111.chunk.css","sourcesContent":["// styles go here\n\n.header {\n  display: inline-block;\n}\n\n.selected {\n  background-color: aqua;\n}\n\n.hidden {\n  display: none;\n}\n\n.button {\n  margin: 10px 20px;\n}\n"]}
